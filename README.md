@@ -1,9 +1,17 @@
 iBee PCB Quadcopter
 ========================
 
-![iBee Board V0.8](hardware/V0.8/ibee-v0.8.png)
+![iBee Board V0.8](ibee-latest.png)
 
 [*iBee Quadcopter Board PCB Layout (iBee V0.8)*](https://www.jackslab.org/)
+
+
+![iBee PCB](ibee-pcbb.jpg)
+
+[*iBee Quadcopter Board PCB (iBee V0.8)*](https://www.jackslab.org/)
+
+
+It's based on the control board of Flexbot Quadcopter.
 
 
 Repository Contents
